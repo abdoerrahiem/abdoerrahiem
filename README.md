@@ -1,8 +1,8 @@
-### Welcome to my github
+### Welcome To My Github Profile
 
-#### I am a Fulstack Developer
+#### I am a Fullstack Developer
 
-##### Here are some techs I use:
+##### Here are some techs I use for development:
 
 - HTML, CSS, JavaScript
 - React Js
