@@ -11,7 +11,7 @@
   <a href="mailto:abdoerrahiem@gmail.com">
     <img src="https://img.shields.io/badge/Email-abdoerrahiem@gmail.com-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://mempawahdeveloper.my.id">
+  <a href="https://abdurcodes.my.id">
     <img src="https://img.shields.io/badge/Website-mempawahdeveloper.my.id-0e83cd?style=flat&logo=google-chrome&logoColor=white" />
   </a>
 </p>
@@ -57,7 +57,7 @@
 
 ### 📫 Let's Connect
 
-- Website: [mempawahdeveloper.my.id](https://mempawahdeveloper.my.id)  
+- Website: [mempawahdeveloper.my.id](https://abdurcodes.my.id)  
 - Email: [abdoerrahiem@gmail.com](mailto:abdoerrahiem@gmail.com)  
 - LinkedIn: [linkedin.com/in/abdoerrahiem](https://linkedin.com/in/abdoerrahiem)
 
