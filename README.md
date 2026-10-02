@@ -9,8 +9,8 @@
   <a href="https://github.com/abdoerrahiem">
     <img src="https://komarev.com/ghpvc/?username=abdoerrahiem&label=Profile%20Views&color=0e75b6&style=flat-square" alt="abdoerrahiem" />
   </a>
-  <a href="https://abdurcodes.my.id">
-    <img src="https://img.shields.io/badge/Website-abdurcodes.my.id-2563EB?style=flat-square&logo=google-chrome&logoColor=white" />
+  <a href="https://abdurcodes.com">
+    <img src="https://img.shields.io/badge/Website-abdurcodes.com-2563EB?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/abdoerrahiem">
     <img src="https://img.shields.io/badge/LinkedIn-abdoerrahiem-0A66C2?style=flat-square&logo=linkedin" />
@@ -76,7 +76,7 @@
 
 ### 📫 Connect With Me
 
-- 🌐 Portfolio / Blog: [abdurcodes.my.id](https://abdurcodes.my.id)
+- 🌐 Portfolio / Blog: [abdurcodes.com](https://abdurcodes.com)
 - 💼 LinkedIn: [linkedin.com/in/abdoerrahiem](https://linkedin.com/in/abdoerrahiem)
 - ✉️ Email: [abdoerrahiem@gmail.com](mailto:abdoerrahiem@gmail.com)
 
