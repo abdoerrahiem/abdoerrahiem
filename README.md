@@ -1,66 +1,87 @@
-<h1 align="center">Hi there, I'm Abdur Rahim</h1>
-<h3 align="center">Fullstack Developer | Mobile Enthusiast | Tech Explorer</h3>
+<h1 align="center">Hi there, I'm Abdur Rahim 👋</h1>
+<h3 align="center">Fullstack Engineer | Cloud & AI Systems Enthusiast | Indie Hacker</h3>
+
+<p align="center">
+  Building high-performance web systems, cloud utilities, and autonomous agent workflows.
+</p>
 
 <p align="center">
   <a href="https://github.com/abdoerrahiem">
-    <img src="https://komarev.com/ghpvc/?username=abdoerrahiem&label=Profile%20views&color=0e75b6&style=flat" alt="abdoerrahiem" />
-  </a>
-  <a href="https://linkedin.com/in/abdoerrahiem">
-    <img src="https://img.shields.io/badge/LinkedIn-abdoerrahiem-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:abdoerrahiem@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abdoerrahiem@gmail.com-red?style=flat&logo=gmail" />
+    <img src="https://komarev.com/ghpvc/?username=abdoerrahiem&label=Profile%20Views&color=0e75b6&style=flat-square" alt="abdoerrahiem" />
   </a>
   <a href="https://abdurcodes.my.id">
-    <img src="https://img.shields.io/badge/Website-abdurcodes.my.id-0e83cd?style=flat&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-abdurcodes.my.id-2563EB?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abdoerrahiem">
+    <img src="https://img.shields.io/badge/LinkedIn-abdoerrahiem-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:abdoerrahiem@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdoerrahiem@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ What I'm Working On & Building
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-
-**Mobile**  
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
-
-**Tools**  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+- 🛡️ **Wednesday VPN** — High-performance cross-platform WireGuard VPN ecosystem (Node.js API + Flutter & Kotlin clients).
+- ⚡ **VibeSpec** — AI Architect & Scaffolding Engine for rapid technical spec design (`PRD`, `ARCHITECTURE`, and database ERD generation).
+- ☁️ **MyStorage** — Self-hosted lightweight personal cloud storage & asset manager for VPS environments.
+- 📝 **MyNotes** — Minimalist, elegant notes system inspired by Bear & Craft (Next.js, Prisma, Tailwind).
+- 🤖 **AI Agents & Automation** — Building autonomous workflows, LLM toolchains, and multi-channel bots (Telegram, WhatsApp bridges, n8n).
 
 ---
 
-### 📈 GitHub Stats
+### 💻 Tech Stack & Tools
+
+**Languages & Frameworks**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Databases & Storage**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**DevOps & Infrastructure**  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdoerrahiem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdoerrahiem&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=abdoerrahiem&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=abdoerrahiem&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoerrahiem&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoerrahiem&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me
 
-- Website: [abdurcodes.my.id](https://abdurcodes.my.id)  
-- Email: [abdoerrahiem@gmail.com](mailto:abdoerrahiem@gmail.com)  
-- LinkedIn: [linkedin.com/in/abdoerrahiem](https://linkedin.com/in/abdoerrahiem)
+- 🌐 Portfolio / Blog: [abdurcodes.my.id](https://abdurcodes.my.id)
+- 💼 LinkedIn: [linkedin.com/in/abdoerrahiem](https://linkedin.com/in/abdoerrahiem)
+- ✉️ Email: [abdoerrahiem@gmail.com](mailto:abdoerrahiem@gmail.com)
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_
+<p align="center">
+  <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
+</p>
